@@ -1,0 +1,33 @@
+{
+    "no apparent retinopathy": [
+        "Absence of microaneurysms",
+        "Absence of intraretinal hemorrhages",
+        "Absence of hard exudates",
+        "Clear retinal vasculature"
+    ],
+    "mild nonproliferative retinopathy": [
+        "Presence of microaneurysms",
+        "Mild retinal hemorrhages",
+        "Mild cotton wool spots",
+        "Mild venous beading"
+    ],
+    "moderate nonproliferative retinopathy": [
+        "More prominent retinal hemorrhages",
+        "Venous beading",
+        "Moderate cotton wool spots",
+        "Intraretinal microvascular abnormalities"
+    ],
+    "severe nonproliferative retinopathy": [
+        "More extensive areas of retinal hemorrhage",
+        "Venous beading and loops",
+        "Severe cotton wool spots",
+        "Neovascularization"
+    ],
+    "proliferative retinopathy": [
+        "Neovascularization",
+        "Fibrous proliferation",
+        "Vitreous hemorrhage",
+        "Tractional retinal detachment"
+    ]
+
+}
